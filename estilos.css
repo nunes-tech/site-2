@@ -124,6 +124,6 @@ header{
             scroll-behavior: smooth;
         }
 
-        p{
+        .container p{
             text-align: justify;
         }
