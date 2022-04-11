@@ -118,3 +118,12 @@ header{
             height: 40px;
             z-index: 99;
         }
+
+        /*Criando o scroll suave*/
+        html {
+            scroll-behavior: smooth;
+        }
+
+        p{
+            text-align: justify;
+        }
